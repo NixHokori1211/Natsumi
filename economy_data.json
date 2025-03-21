@@ -1,0 +1,63 @@
+{
+    "638835601273258035": {
+        "balance": 1296,
+        "bank": 0,
+        "last_daily": "2025-03-17T14:12:15.843239",
+        "last_work": "2025-03-17T14:11:23.086099",
+        "last_mine": "2025-03-17T14:11:47.980977",
+        "last_fish": "2025-03-17T14:12:09.474713",
+        "inventory": {
+            "tubar\u00e3o": 1,
+            "ferro": 2,
+            "tesouro": 1
+        },
+        "owned_items": [],
+        "active_buffs": {},
+        "last_search": "2025-03-10T13:22:26.109831"
+    },
+    "544240234221535507": {
+        "balance": 0,
+        "bank": 0,
+        "last_daily": null,
+        "last_work": null,
+        "last_mine": null,
+        "last_fish": null,
+        "last_crime": null,
+        "last_search": null,
+        "last_rob": null,
+        "last_gamble": null,
+        "inventory": {},
+        "owned_items": [],
+        "active_buffs": {}
+    },
+    "779023447845765140": {
+        "balance": 0,
+        "bank": 0,
+        "last_daily": null,
+        "last_work": null,
+        "last_mine": null,
+        "last_fish": null,
+        "last_crime": null,
+        "last_search": null,
+        "last_rob": null,
+        "last_gamble": null,
+        "inventory": {},
+        "owned_items": [],
+        "active_buffs": {}
+    },
+    "891343859362197554": {
+        "balance": 0,
+        "bank": 0,
+        "last_daily": null,
+        "last_work": null,
+        "last_mine": null,
+        "last_fish": null,
+        "last_crime": null,
+        "last_search": null,
+        "last_rob": null,
+        "last_gamble": null,
+        "inventory": {},
+        "owned_items": [],
+        "active_buffs": {}
+    }
+}

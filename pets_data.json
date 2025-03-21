@@ -1,0 +1,20 @@
+{
+    "544240234221535507": {
+        "name": "Pit\u00fa",
+        "type": "dragon",
+        "created_at": "2025-03-10T13:26:23.993962",
+        "last_interaction": "2025-03-10T13:27:57.545025",
+        "hunger": 99.98180951688889,
+        "happiness": 99.9948027191111,
+        "energy": 99.99220407866666,
+        "sleeping": false,
+        "xp": 0,
+        "level": 1,
+        "inventory": {
+            "food": {
+                "carne": 3
+            },
+            "toys": {}
+        }
+    }
+}

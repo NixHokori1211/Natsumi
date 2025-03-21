@@ -1,0 +1,39 @@
+{
+    "638835601273258035": {
+        "level": 1,
+        "xp": 42,
+        "gold": 187,
+        "hp": 32,
+        "max_hp": 100,
+        "attack": 10,
+        "defense": 5,
+        "inventory": {
+            "weapons": [],
+            "armor": [],
+            "potions": []
+        },
+        "equipped": {
+            "weapon": {
+                "name": "Iron Dagger",
+                "type": "weapon",
+                "rarity": "common",
+                "attack": 7,
+                "value": 80
+            },
+            "armor": null
+        },
+        "cooldowns": {
+            "adventure": 1742222374.5156121,
+            "dungeon": null,
+            "boss": null
+        },
+        "stats": {
+            "adventures_completed": 3,
+            "dungeons_completed": 0,
+            "bosses_defeated": 0,
+            "monsters_killed": 3,
+            "items_found": 2,
+            "deaths": 1
+        }
+    }
+}

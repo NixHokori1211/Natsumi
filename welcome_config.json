@@ -1,0 +1,33 @@
+{
+    "enabled": true,
+    "welcome_channel": {},
+    "dm_welcome": true,
+    "welcome_messages": [
+        "Bem-vindo(a) {user} ao {server}! Esperamos que voc\u00ea se divirta aqui!",
+        "Ol\u00e1 {user}! Seja bem-vindo(a) ao {server}!",
+        "Um novo membro chegou! Deem as boas-vindas para {user}!",
+        "Mais um para a nossa fam\u00edlia! {user} agora faz parte do {server}!",
+        "{user} acabou de entrar! Voc\u00eas cheiraram isso? Cheiro de membro novo no {server}!",
+        "Bem-vindo(a) {user}! Prepare-se para uma experi\u00eancia incr\u00edvel no {server}!"
+    ],
+    "welcome_messages_en": [
+        "Welcome {user} to {server}! We hope you enjoy your stay!",
+        "Hello {user}! Welcome to {server}!",
+        "A new member has arrived! Everyone welcome {user}!",
+        "One more to our family! {user} is now part of {server}!",
+        "{user} just joined! Did you smell that? Smells like a new member in {server}!",
+        "Welcome {user}! Get ready for an amazing experience in {server}!"
+    ],
+    "goodbye_messages": [
+        "Adeus {user}! Sentiremos sua falta...",
+        "{user} saiu do servidor. At\u00e9 a pr\u00f3xima!",
+        "Foi bom enquanto durou! Adeus, {user}.",
+        "{user} nos deixou. O {server} n\u00e3o ser\u00e1 o mesmo sem voc\u00ea!"
+    ],
+    "goodbye_messages_en": [
+        "Goodbye {user}! We will miss you...",
+        "{user} left the server. Until next time!",
+        "It was good while it lasted! Goodbye, {user}.",
+        "{user} has left us. {server} won't be the same without you!"
+    ]
+}

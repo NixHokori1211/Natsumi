@@ -1,0 +1,845 @@
+2025-03-10 11:25:34,402 - __main__ - ERROR - No Discord token found. Please set the DISCORD_TOKEN environment variable.
+2025-03-10 11:27:23,839 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:27:23,851 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:27:23,851 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:27:23,852 - discord.client - INFO - logging in using static token
+2025-03-10 11:27:24,389 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d99b7ae5be17b89d2b3c6ff3494100b7).
+2025-03-10 11:27:26,421 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:27:26,422 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:27:58,385 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:27:58,389 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:27:58,390 - discord.client - INFO - logging in using static token
+2025-03-10 11:27:58,858 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 41804c1fb0038284845966174c614d82).
+2025-03-10 11:28:00,894 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:28:00,894 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:28:24,197 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:28:24,197 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:28:24,198 - discord.client - INFO - logging in using static token
+2025-03-10 11:28:24,700 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 84a7a4c99edb49d2728b2f2331330c67).
+2025-03-10 11:28:26,723 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:28:26,723 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:28:26,731 - bot - ERROR - Failed to load cogs: Extension 'cogs.utils' raised an error: TypeError: object NoneType can't be used in 'await' expression
+2025-03-10 11:29:00,192 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:29:00,192 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:29:00,193 - discord.client - INFO - logging in using static token
+2025-03-10 11:29:00,705 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5035526ee2f9c9eba205b0b412751861).
+2025-03-10 11:29:02,724 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:29:02,725 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:29:02,735 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:29:06,651 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:29:06,652 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:29:06,653 - discord.client - INFO - logging in using static token
+2025-03-10 11:29:07,223 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 926aec6dde6c86a9313adb5b6c097e16).
+2025-03-10 11:29:09,245 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:29:09,246 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:29:09,252 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:30:11,317 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:30:11,318 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:30:11,321 - discord.client - INFO - logging in using static token
+2025-03-10 11:30:11,944 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 21965f1a87f1226d9733d3b0f2dc9ed5).
+2025-03-10 11:30:13,978 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:30:13,978 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:30:13,983 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:31:11,770 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:31:11,772 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:31:11,773 - discord.client - INFO - logging in using static token
+2025-03-10 11:31:12,457 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4ce58391f03f3b828027eb697e1a2468).
+2025-03-10 11:31:14,478 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:31:14,479 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:31:14,486 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:32:34,587 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:32:34,590 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:32:34,592 - discord.client - INFO - logging in using static token
+2025-03-10 11:32:35,260 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 714c023ef9bb632319a0905d04a2a350).
+2025-03-10 11:32:37,283 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:32:37,285 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:32:37,291 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:35:07,804 - bot - INFO - Message from _devilbryan: <@924750997295857775>
+2025-03-10 11:35:24,836 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:35:24,838 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:35:24,839 - discord.client - INFO - logging in using static token
+2025-03-10 11:35:25,642 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4da23098e17090d8b2871ab472e63b23).
+2025-03-10 11:35:27,659 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:35:27,661 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:35:27,702 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:35:46,957 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:35:46,957 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:35:46,957 - discord.client - INFO - logging in using static token
+2025-03-10 11:35:47,433 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 08f7b09980b536cffcea2c6b14065ba5).
+2025-03-10 11:35:49,454 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:35:49,454 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:35:49,468 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:40:34,753 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:40:34,755 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:40:34,756 - discord.client - INFO - logging in using static token
+2025-03-10 11:40:35,272 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9bb16756a95b69c767d38867faea4332).
+2025-03-10 11:40:37,362 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:40:37,363 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:40:37,387 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:46:18,231 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:46:18,232 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:46:18,234 - discord.client - INFO - logging in using static token
+2025-03-10 11:46:18,812 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 799a7b3dcd76dbcae2612ba724471c71).
+2025-03-10 11:46:20,839 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:46:20,839 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:46:20,877 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:46:36,622 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:46:36,622 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:46:36,623 - discord.client - INFO - logging in using static token
+2025-03-10 11:46:37,084 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5d4ed9a39542ad5a6e3576c6415a4a19).
+2025-03-10 11:46:39,116 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:46:39,116 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:46:39,125 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:49:12,516 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:49:12,517 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:49:12,517 - discord.client - INFO - logging in using static token
+2025-03-10 11:49:13,039 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8dfd9839fd56dc3a31f6e454e0db170b).
+2025-03-10 11:49:15,080 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:49:15,080 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:49:15,092 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:51:17,702 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:51:17,703 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:51:17,703 - discord.client - INFO - logging in using static token
+2025-03-10 11:51:18,190 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d0bd47395302e4ef29eb767c2838a1db).
+2025-03-10 11:51:20,207 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:51:20,207 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:51:20,220 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:54:16,731 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:54:16,731 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:54:16,732 - discord.client - INFO - logging in using static token
+2025-03-10 11:54:17,271 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ffe34b9c16730e5be6afd1a94000e34e).
+2025-03-10 11:54:19,287 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:54:19,287 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:54:19,301 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:57:28,161 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:57:28,161 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:57:28,161 - discord.client - INFO - logging in using static token
+2025-03-10 11:57:28,869 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e16e6a0940e6015e1e8373b0f0986020).
+2025-03-10 11:57:30,890 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:57:30,891 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:57:30,907 - bot - INFO - Loaded all cogs successfully
+2025-03-10 11:57:49,929 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 11:57:49,930 - __main__ - INFO - Starting Discord bot...
+2025-03-10 11:57:49,930 - discord.client - INFO - logging in using static token
+2025-03-10 11:57:50,677 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5f11d19a46395646d5cbaca02e4c6bf3).
+2025-03-10 11:57:52,691 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 11:57:52,691 - bot - INFO - Connected to 3 guilds
+2025-03-10 11:57:52,702 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:04:41,457 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 12:04:41,457 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:04:41,458 - discord.client - INFO - logging in using static token
+2025-03-10 12:04:41,952 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 98941f771b1d1154db845dffc51aa4b3).
+2025-03-10 12:04:43,970 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:04:43,970 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:04:43,981 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:05:20,322 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-10 12:05:20,324 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:05:20,324 - discord.client - INFO - logging in using static token
+2025-03-10 12:05:20,847 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a0ec8e11c00ff9f666872abb4f9f949e).
+2025-03-10 12:05:22,865 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:05:22,865 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:05:22,878 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:08:11,319 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:08:11,319 - discord.client - INFO - logging in using static token
+2025-03-10 12:08:11,832 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4b6acd013c9795c1102f138fb49aabef).
+2025-03-10 12:08:13,879 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:08:13,879 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:08:13,892 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:08:43,624 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:08:43,625 - discord.client - INFO - logging in using static token
+2025-03-10 12:08:44,164 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a85dfc44bf62cce3c6213cb8c830d5ec).
+2025-03-10 12:08:46,188 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:08:46,189 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:08:46,936 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:09:18,896 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:09:18,897 - discord.client - INFO - logging in using static token
+2025-03-10 12:09:19,328 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5d85761cb0b9ca5e6649a854364d713a).
+2025-03-10 12:09:21,349 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:09:21,350 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:09:21,654 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:10:54,285 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:10:54,286 - discord.client - INFO - logging in using static token
+2025-03-10 12:10:54,756 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d489b2298bdb40ab4676ed3bce3cee80).
+2025-03-10 12:10:56,776 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:10:56,776 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:10:56,971 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:13:15,438 - bot - ERROR - Command error: Command raised an exception: TypeError: 'NoneType' object is not callable
+NoneType: None
+2025-03-10 12:14:42,348 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:14:42,350 - discord.client - INFO - logging in using static token
+2025-03-10 12:14:43,037 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: aea22d3dad494a21f3c71b6699c6877a).
+2025-03-10 12:14:45,205 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:14:45,205 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:14:45,439 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:14:49,569 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:14:49,570 - discord.client - INFO - logging in using static token
+2025-03-10 12:14:50,274 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fc96ab3c8746662ff5c8bda4fb7cfd79).
+2025-03-10 12:14:52,292 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:14:52,292 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:14:52,540 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:15:32,862 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:15:32,863 - discord.client - INFO - logging in using static token
+2025-03-10 12:15:33,349 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3b4dcde7b3aedf01c1773e9a3cfcf4a7).
+2025-03-10 12:15:35,365 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:15:35,365 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:15:35,704 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:19:34,519 - cogs.fun - INFO - 8ball command used by _devilbryan, question: hoje vai cair energia da escola?, response: My sources say no.
+2025-03-10 12:24:32,805 - cogs.admin - INFO - Guilds command used by _devilbryan
+2025-03-10 12:25:14,419 - cogs.fun - INFO - Fact command used by _devilbryan
+2025-03-10 12:25:47,700 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:25:47,701 - discord.client - INFO - logging in using static token
+2025-03-10 12:25:48,424 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 277f160ff52921168b046ab9e87563a6).
+2025-03-10 12:25:50,481 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:25:50,482 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:25:50,821 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:26:14,846 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:26:14,848 - discord.client - INFO - logging in using static token
+2025-03-10 12:26:15,402 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 13861ba5335478fdba8cbe4c80d11ea6).
+2025-03-10 12:26:17,416 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:26:17,417 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:26:17,653 - bot - ERROR - Failed to load cogs: Extension 'cogs.marriage' raised an error: CommandRegistrationError: The command marry is already an existing command or alias.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 963, in _load_from_module_spec
+    await setup(self)
+  File "/home/runner/workspace/cogs/marriage.py", line 546, in setup
+    await bot.add_cog(Marriage(bot))
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 799, in add_cog
+    cog = await cog._inject(self, override=override, guild=guild, guilds=guilds)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/cog.py", line 725, in _inject
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/cog.py", line 716, in _inject
+    bot.add_command(command)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 253, in add_command
+    super().add_command(command)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1356, in add_command
+    raise CommandRegistrationError(command.name)
+discord.ext.commands.errors.CommandRegistrationError: The command marry is already an existing command or alias.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot.py", line 84, in load_cogs
+    await self.load_extension("cogs.marriage")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 968, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.marriage' raised an error: CommandRegistrationError: The command marry is already an existing command or alias.
+2025-03-10 12:26:30,558 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:26:30,559 - discord.client - INFO - logging in using static token
+2025-03-10 12:26:31,373 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4365403a07eb1c1ad87eff3001f4b55f).
+2025-03-10 12:26:33,410 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:26:33,411 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:26:33,689 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:26:56,963 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:26:56,964 - discord.client - INFO - logging in using static token
+2025-03-10 12:26:57,487 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 282bcf1f39671af286cdd70ad359c610).
+2025-03-10 12:26:59,503 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:26:59,504 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:26:59,747 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:34:44,206 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:34:44,207 - discord.client - INFO - logging in using static token
+2025-03-10 12:34:44,869 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 585e9faecbd13b81a0247220d0d842f7).
+2025-03-10 12:34:46,908 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:34:46,908 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:34:47,246 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:35:16,473 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:35:16,474 - discord.client - INFO - logging in using static token
+2025-03-10 12:35:17,164 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d13775085bfa832d15ca714d2adc2ab7).
+2025-03-10 12:35:19,192 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:35:19,192 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:35:19,420 - bot - INFO - Loaded all cogs successfully
+2025-03-10 12:35:28,780 - __main__ - INFO - Starting Discord bot...
+2025-03-10 12:35:28,781 - discord.client - INFO - logging in using static token
+2025-03-10 12:35:29,582 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d623f8b13d6666db74cc169e5d933b13).
+2025-03-10 12:35:31,595 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 12:35:31,596 - bot - INFO - Connected to 3 guilds
+2025-03-10 12:35:31,815 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:17:11,256 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:17:11,257 - discord.client - INFO - logging in using static token
+2025-03-10 13:17:11,852 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 056451e7d178caa365df89954b8be244).
+2025-03-10 13:17:13,867 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:17:13,869 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:17:14,270 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:17:17,977 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:17:17,978 - discord.client - INFO - logging in using static token
+2025-03-10 13:17:18,565 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3dff2d050e9d9166a659cab72cd7b310).
+2025-03-10 13:17:20,581 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:17:20,581 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:17:20,830 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:17:39,151 - cogs.utils - INFO - User info command used by _devilbryan, target: _devilbryan
+2025-03-10 13:20:10,291 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:20:10,292 - discord.client - INFO - logging in using static token
+2025-03-10 13:20:10,785 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7e0318dfe06f6457238cb7b2544a7d8a).
+2025-03-10 13:20:12,809 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:20:12,810 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:20:13,084 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:20:22,173 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:20:22,174 - discord.client - INFO - logging in using static token
+2025-03-10 13:20:22,755 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 14a02d0b7842f5294f3b26e02e0d11ef).
+2025-03-10 13:20:24,799 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:20:24,800 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:20:25,086 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:24:31,995 - cogs.utils - INFO - User info command used by taiga_akka, target: taiga_akka
+2025-03-10 13:27:48,527 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:27:48,529 - discord.client - INFO - logging in using static token
+2025-03-10 13:27:49,165 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c5b41435bad23d0fee69c0333a72af7a).
+2025-03-10 13:27:51,209 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:27:51,223 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:27:51,576 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:28:02,302 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:28:02,303 - discord.client - INFO - logging in using static token
+2025-03-10 13:28:02,885 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9aeb89a9b0db994a9cc880aa5f3681c2).
+2025-03-10 13:28:04,907 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:28:04,908 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:28:05,168 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:28:05,171 - discord.ext.tasks - ERROR - Unhandled exception in internal background task 'check_apis'.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 246, in _loop
+    await self.coro(*args, **kwargs)
+  File "/home/runner/workspace/cogs/webhooks.py", line 213, in check_apis
+    await self._check_github_repos()
+  File "/home/runner/workspace/cogs/webhooks.py", line 225, in _check_github_repos
+    for guild_id, repos in self.webhook_data["github"].items():
+                           ^^^^^^^^^^^^^^^^^
+AttributeError: 'WebhookIntegrations' object has no attribute 'webhook_data'
+2025-03-10 13:33:51,103 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:33:51,104 - discord.client - INFO - logging in using static token
+2025-03-10 13:33:51,869 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e9b47c4085b25ee8c11b3ed4c895ae81).
+2025-03-10 13:33:53,879 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:33:53,883 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:33:54,350 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:33:54,352 - discord.ext.tasks - ERROR - Unhandled exception in internal background task 'check_apis'.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 246, in _loop
+    await self.coro(*args, **kwargs)
+  File "/home/runner/workspace/cogs/webhooks.py", line 213, in check_apis
+    await self._check_github_repos()
+  File "/home/runner/workspace/cogs/webhooks.py", line 225, in _check_github_repos
+    for guild_id, repos in self.webhook_data["github"].items():
+                           ^^^^^^^^^^^^^^^^^
+AttributeError: 'WebhookIntegrations' object has no attribute 'webhook_data'
+2025-03-10 13:36:01,512 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:36:01,513 - discord.client - INFO - logging in using static token
+2025-03-10 13:36:02,100 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 528a21ff4b09b24742ec68db98f12094).
+2025-03-10 13:36:04,149 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:36:04,149 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:36:04,485 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:36:04,486 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 13:36:04,486 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 13:36:04,486 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 13:37:29,691 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:37:29,693 - discord.client - INFO - logging in using static token
+2025-03-10 13:37:30,244 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8a5e100ceede81691ca21cda1de0c064).
+2025-03-10 13:37:32,262 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:37:32,263 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:37:32,491 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:37:32,492 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 13:37:32,492 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 13:37:32,492 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 13:40:58,409 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:40:58,410 - discord.client - INFO - logging in using static token
+2025-03-10 13:40:59,184 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2a90040945b872b371a2b007555416e2).
+2025-03-10 13:41:01,200 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:41:01,201 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:41:01,839 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:41:01,840 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 13:41:01,841 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 13:41:01,841 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 13:42:09,160 - cogs.fun - INFO - Joke command used by taiga_akka
+2025-03-10 13:42:25,908 - bot - INFO - Message from _devilbryan: essa faz sentido
+2025-03-10 13:45:17,296 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:45:17,299 - discord.client - INFO - logging in using static token
+2025-03-10 13:45:18,113 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b9325aa88c78146a6ebdcd9384c1c183).
+2025-03-10 13:45:20,134 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:45:20,135 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:45:20,454 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:45:20,454 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 13:45:20,455 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 13:45:20,455 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 13:45:27,816 - cogs.language - INFO - Joke command used by taiga_akka
+2025-03-10 13:45:38,134 - cogs.language - INFO - Joke command used by taiga_akka
+2025-03-10 13:45:54,959 - bot - INFO - Message from taiga_akka: L.punch <@924750997295857775>
+2025-03-10 13:46:05,385 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:46:17,938 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:46:34,412 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:46:38,728 - cogs.language - INFO - Joke command used by taiga_akka
+2025-03-10 13:47:23,286 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:47:32,595 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:47:38,790 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:47:41,191 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:47:45,180 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:47:48,337 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:47:51,407 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:47:54,644 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:47:57,562 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:48:55,468 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:48:59,478 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:49:02,627 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:49:05,326 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:52:08,950 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:52:08,952 - discord.client - INFO - logging in using static token
+2025-03-10 13:52:09,483 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 93aeae8a2d4099474b616c859e50801f).
+2025-03-10 13:52:11,504 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:52:11,506 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:52:12,213 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:52:12,216 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 13:52:12,216 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 13:52:12,216 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 13:53:16,901 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:53:20,611 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:53:24,316 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:53:27,113 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:53:54,233 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:53:58,106 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 13:54:33,823 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:54:33,824 - discord.client - INFO - logging in using static token
+2025-03-10 13:54:34,458 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5ad205f83125a5d986b4d3245e8b3243).
+2025-03-10 13:54:36,482 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:54:36,483 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:54:38,086 - bot - INFO - Loaded all cogs successfully
+2025-03-10 13:54:38,087 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 13:54:38,087 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 13:54:38,087 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 13:59:16,715 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:59:16,718 - discord.client - INFO - logging in using static token
+2025-03-10 13:59:18,703 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bc728daf6a46709fcc6a82c2e4b79e5f).
+2025-03-10 13:59:20,754 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:59:20,755 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:59:21,407 - bot - ERROR - Failed to load cogs: Extension 'cogs.levels' raised an error: CommandRegistrationError: The command leaderboard is already an existing command or alias.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 963, in _load_from_module_spec
+    await setup(self)
+  File "/home/runner/workspace/cogs/levels.py", line 1101, in setup
+    await bot.add_cog(Levels(bot))
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 799, in add_cog
+    cog = await cog._inject(self, override=override, guild=guild, guilds=guilds)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/cog.py", line 725, in _inject
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/cog.py", line 716, in _inject
+    bot.add_command(command)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 253, in add_command
+    super().add_command(command)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1356, in add_command
+    raise CommandRegistrationError(command.name)
+discord.ext.commands.errors.CommandRegistrationError: The command leaderboard is already an existing command or alias.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot.py", line 90, in load_cogs
+    await self.load_extension("cogs.levels")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 968, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.levels' raised an error: CommandRegistrationError: The command leaderboard is already an existing command or alias.
+2025-03-10 13:59:21,410 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 13:59:21,410 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 13:59:21,410 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 13:59:40,071 - __main__ - INFO - Starting Discord bot...
+2025-03-10 13:59:40,076 - discord.client - INFO - logging in using static token
+2025-03-10 13:59:40,516 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fe194134ec8c5d17d9340a8e2379012d).
+2025-03-10 13:59:42,535 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 13:59:42,536 - bot - INFO - Connected to 3 guilds
+2025-03-10 13:59:42,924 - bot - ERROR - Failed to load cogs: Extension 'cogs.levels' raised an error: CommandRegistrationError: The command leaderboard is already an existing command or alias.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 963, in _load_from_module_spec
+    await setup(self)
+  File "/home/runner/workspace/cogs/levels.py", line 1101, in setup
+    await bot.add_cog(Levels(bot))
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 799, in add_cog
+    cog = await cog._inject(self, override=override, guild=guild, guilds=guilds)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/cog.py", line 725, in _inject
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/cog.py", line 716, in _inject
+    bot.add_command(command)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 253, in add_command
+    super().add_command(command)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1356, in add_command
+    raise CommandRegistrationError(command.name)
+discord.ext.commands.errors.CommandRegistrationError: The command leaderboard is already an existing command or alias.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot.py", line 90, in load_cogs
+    await self.load_extension("cogs.levels")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1029, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 968, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.levels' raised an error: CommandRegistrationError: The command leaderboard is already an existing command or alias.
+2025-03-10 13:59:42,927 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 13:59:42,927 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 13:59:42,927 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 14:00:29,410 - cogs.language - INFO - Joke command used by _devilbryan
+2025-03-10 14:01:03,526 - __main__ - INFO - Starting Discord bot...
+2025-03-10 14:01:03,527 - discord.client - INFO - logging in using static token
+2025-03-10 14:01:04,237 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 13e7ba7e20edae59a2ec60a73cf72c65).
+2025-03-10 14:01:06,254 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 14:01:06,255 - bot - INFO - Connected to 3 guilds
+2025-03-10 14:01:06,546 - bot - INFO - Loaded all cogs successfully
+2025-03-10 14:01:06,548 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 14:01:06,548 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 14:01:06,548 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 14:01:29,053 - __main__ - INFO - Starting Discord bot...
+2025-03-10 14:01:29,054 - discord.client - INFO - logging in using static token
+2025-03-10 14:01:29,525 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9bce045889bfa41c770981d8c09fad0a).
+2025-03-10 14:01:31,561 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 14:01:31,573 - bot - INFO - Connected to 3 guilds
+2025-03-10 14:01:31,898 - bot - INFO - Loaded all cogs successfully
+2025-03-10 14:01:31,899 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 14:01:31,899 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 14:01:31,899 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 14:08:08,022 - __main__ - INFO - Starting Discord bot...
+2025-03-10 14:08:08,023 - discord.client - INFO - logging in using static token
+2025-03-10 14:08:08,630 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2661a37ef5279c54a7a5a6453f94b237).
+2025-03-10 14:08:10,645 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 14:08:10,645 - bot - INFO - Connected to 3 guilds
+2025-03-10 14:08:11,176 - bot - INFO - Loaded all cogs successfully
+2025-03-10 14:08:11,177 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 14:08:11,177 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 14:08:11,177 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 14:09:54,985 - __main__ - INFO - Starting Discord bot...
+2025-03-10 14:09:54,992 - discord.client - INFO - logging in using static token
+2025-03-10 14:09:55,759 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2e8c7b5e008e17e22bb8f96ff39c0746).
+2025-03-10 14:09:57,784 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 14:09:57,785 - bot - INFO - Connected to 3 guilds
+2025-03-10 14:09:58,188 - bot - INFO - Loaded all cogs successfully
+2025-03-10 14:09:58,189 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 14:09:58,189 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 14:09:58,190 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 14:19:58,215 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 14:19:58,218 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 14:19:58,218 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 14:29:58,197 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 14:29:58,197 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 14:29:58,197 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 14:39:58,218 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 14:39:58,218 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 14:39:58,218 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:14:10,135 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:14:10,139 - discord.client - INFO - logging in using static token
+2025-03-10 16:14:10,813 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cd9968023dbe60c3c8fb4c595e12546c).
+2025-03-10 16:14:12,832 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:14:12,832 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:14:13,569 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:14:13,570 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:14:13,571 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:14:13,571 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:14:20,420 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:14:20,421 - discord.client - INFO - logging in using static token
+2025-03-10 16:14:21,169 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 290f61f1c2f6c453dcdfe59e34d25a9a).
+2025-03-10 16:14:23,187 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:14:23,188 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:14:23,589 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:14:23,590 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:14:23,590 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:14:23,590 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:14:28,538 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:14:28,538 - discord.client - INFO - logging in using static token
+2025-03-10 16:14:29,057 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0fe49f1bd6e946302e274a5f92aa5c11).
+2025-03-10 16:14:31,073 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:14:31,073 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:14:31,471 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:14:31,472 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:14:31,472 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:14:31,472 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:24:31,497 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:24:31,497 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:24:31,497 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:24:52,493 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:24:52,494 - discord.client - INFO - logging in using static token
+2025-03-10 16:24:53,105 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 38a020e44876cf733c94442ef176f74d).
+2025-03-10 16:24:55,155 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:24:55,155 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:24:55,524 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:24:55,525 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:24:55,525 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:24:55,525 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:31:44,088 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:31:44,089 - discord.client - INFO - logging in using static token
+2025-03-10 16:31:44,657 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d7db4863b29f6bef0bab58e706b39d79).
+2025-03-10 16:31:46,699 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:31:46,699 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:31:47,062 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:31:47,064 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:31:47,064 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:31:47,064 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:33:57,125 - __main__ - INFO - Uptime monitoring server started in background
+2025-03-10 16:33:57,127 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:33:57,127 - discord.client - INFO - logging in using static token
+2025-03-10 16:33:57,138 - __main__ - INFO - Starting uptime server on port 5000
+2025-03-10 16:33:57,750 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c1cd002dd782cf00c45452a8444b01ec).
+2025-03-10 16:33:59,774 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:33:59,774 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:34:00,159 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:34:00,162 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:34:00,165 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:34:00,170 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:34:08,003 - __main__ - INFO - Uptime monitoring server started in background
+2025-03-10 16:34:08,007 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:34:08,009 - discord.client - INFO - logging in using static token
+2025-03-10 16:34:08,015 - __main__ - INFO - Starting uptime server on port 5000
+2025-03-10 16:34:08,614 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 42be7938568974bc638cf400850cf9d4).
+2025-03-10 16:34:10,632 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:34:10,632 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:34:10,936 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:34:10,937 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:34:10,937 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:34:10,937 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:39:00,802 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-10 16:39:00,803 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:39:00,803 - discord.client - INFO - logging in using static token
+2025-03-10 16:39:00,816 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-10 16:39:01,571 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bdd24298928a572f52e0c9091a4bed5b).
+2025-03-10 16:39:03,584 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:39:03,585 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:39:04,066 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:39:04,068 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:39:04,068 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:39:04,068 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:39:41,030 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-10 16:39:41,031 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:39:41,031 - discord.client - INFO - logging in using static token
+2025-03-10 16:39:41,075 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-10 16:39:41,716 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4d750da91d48bb339e7a888a4803e554).
+2025-03-10 16:39:43,745 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:39:43,745 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:39:44,147 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:39:44,148 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:39:44,148 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:39:44,148 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:42:57,552 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-10 16:42:57,554 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:42:57,554 - discord.client - INFO - logging in using static token
+2025-03-10 16:42:57,559 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-10 16:42:58,052 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6ff8b348ca568035db5264c02a7bd2ab).
+2025-03-10 16:43:00,066 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:43:00,066 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:43:02,509 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-10 16:43:02,511 - __main__ - INFO - Starting Discord bot...
+2025-03-10 16:43:02,512 - discord.client - INFO - logging in using static token
+2025-03-10 16:43:02,520 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-10 16:43:03,108 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e30e09913537a171123024bf0f307327).
+2025-03-10 16:43:05,140 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 16:43:05,140 - bot - INFO - Connected to 3 guilds
+2025-03-10 16:43:05,490 - bot - INFO - Loaded all cogs successfully
+2025-03-10 16:43:05,493 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:43:05,493 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:43:05,493 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 16:53:05,517 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 16:53:05,518 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 16:53:05,518 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 17:03:05,498 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 17:03:05,498 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 17:03:05,498 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 18:36:30,904 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-10 18:36:30,906 - __main__ - INFO - Starting Discord bot...
+2025-03-10 18:36:30,907 - discord.client - INFO - logging in using static token
+2025-03-10 18:36:30,918 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-10 18:36:31,383 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: da5969fd4c0ca102a5e746f8f8449a3c).
+2025-03-10 18:36:33,417 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 18:36:33,417 - bot - INFO - Connected to 3 guilds
+2025-03-10 18:36:34,098 - bot - INFO - Loaded all cogs successfully
+2025-03-10 18:36:34,103 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 18:36:34,103 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 18:36:34,103 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 18:36:36,135 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-10 18:36:36,136 - __main__ - INFO - Starting Discord bot...
+2025-03-10 18:36:36,137 - discord.client - INFO - logging in using static token
+2025-03-10 18:36:36,873 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d640f10180ae5ad381e477e5423d1c12).
+2025-03-10 18:36:37,316 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-10 18:36:37,317 - __main__ - INFO - Starting Discord bot...
+2025-03-10 18:36:37,318 - discord.client - INFO - logging in using static token
+2025-03-10 18:36:37,825 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c5828fa650e84ff5423f38b9b7618414).
+2025-03-10 18:36:38,909 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 18:36:38,910 - bot - INFO - Connected to 3 guilds
+2025-03-10 18:36:39,193 - bot - INFO - Loaded all cogs successfully
+2025-03-10 18:36:39,194 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 18:36:39,194 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 18:36:39,194 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 18:36:39,847 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-10 18:36:39,847 - bot - INFO - Connected to 3 guilds
+2025-03-10 18:36:40,214 - bot - INFO - Loaded all cogs successfully
+2025-03-10 18:36:40,215 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-10 18:36:40,215 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-10 18:36:40,215 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-10 18:38:21,079 - discord.gateway - INFO - Shard ID None has successfully RESUMED session c5828fa650e84ff5423f38b9b7618414.
+2025-03-10 18:46:31,891 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-10 18:46:31,893 - __main__ - INFO - Starting Discord bot...
+2025-03-10 18:46:31,906 - discord.client - INFO - logging in using static token
+2025-03-10 18:46:31,912 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-11 00:44:02,097 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-11 00:44:02,100 - __main__ - INFO - Starting Discord bot...
+2025-03-11 00:44:02,101 - discord.client - INFO - logging in using static token
+2025-03-11 00:44:02,114 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-11 00:44:02,773 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ae193d3066a202cc455ddd8f731fd512).
+2025-03-11 00:44:04,813 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-11 00:44:04,814 - bot - INFO - Connected to 3 guilds
+2025-03-11 00:44:05,679 - bot - INFO - Loaded all cogs successfully
+2025-03-11 00:44:05,681 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-11 00:44:05,681 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-11 00:44:05,681 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 10:51:40,030 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-12 10:51:40,034 - __main__ - INFO - Starting Discord bot...
+2025-03-12 10:51:40,035 - discord.client - INFO - logging in using static token
+2025-03-12 10:51:40,042 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-12 10:51:40,718 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ca81f5ba2dc12db1d46c63299e696100).
+2025-03-12 10:51:42,731 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-12 10:51:42,731 - bot - INFO - Connected to 3 guilds
+2025-03-12 10:51:43,662 - bot - INFO - Loaded all cogs successfully
+2025-03-12 10:51:43,667 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 10:51:43,667 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 10:51:43,667 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 11:05:02,593 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-12 11:05:02,593 - __main__ - INFO - Starting Discord bot...
+2025-03-12 11:05:02,594 - discord.client - INFO - logging in using static token
+2025-03-12 11:05:02,599 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-12 11:05:03,218 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a16933ac7895028445d2825dac6cbaaf).
+2025-03-12 11:05:05,230 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-12 11:05:05,230 - bot - INFO - Connected to 3 guilds
+2025-03-12 11:05:05,607 - bot - INFO - Loaded all cogs successfully
+2025-03-12 11:05:05,609 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 11:05:05,609 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 11:05:05,609 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 11:07:50,406 - bot - ERROR - Command error: Converting to "int" failed for parameter "potion_index".
+NoneType: None
+2025-03-12 11:15:05,634 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 11:15:05,634 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 11:15:05,634 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 11:25:05,615 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 11:25:05,615 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 11:25:05,616 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 11:35:05,638 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 11:35:05,638 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 11:35:05,638 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 11:45:05,620 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 11:45:05,620 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 11:45:05,620 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 11:55:05,641 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 11:55:05,642 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 11:55:05,642 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 12:02:04,930 - discord.gateway - INFO - Shard ID None has successfully RESUMED session a16933ac7895028445d2825dac6cbaaf.
+2025-03-12 12:05:05,624 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 12:05:05,624 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 12:05:05,624 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 12:15:05,648 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 12:15:05,648 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 12:15:05,649 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 12:25:05,629 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 12:25:05,629 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 12:25:05,629 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 12:35:05,609 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 12:35:05,609 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 12:35:05,610 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 12:45:05,632 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 12:45:05,632 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 12:45:05,632 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 12:55:05,612 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 12:55:05,612 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 12:55:05,612 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-12 13:00:23,983 - discord.gateway - INFO - Shard ID None has successfully RESUMED session a16933ac7895028445d2825dac6cbaaf.
+2025-03-12 13:05:05,642 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-12 13:05:05,643 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-12 13:05:05,643 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 11:10:15,954 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-17 11:10:15,956 - __main__ - INFO - Starting Discord bot...
+2025-03-17 11:10:15,956 - discord.client - INFO - logging in using static token
+2025-03-17 11:10:15,962 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-17 11:10:16,135 - __main__ - ERROR - Failed to start the bot: Improper token has been passed.
+2025-03-17 11:10:22,965 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-17 11:10:22,966 - __main__ - INFO - Starting Discord bot...
+2025-03-17 11:10:22,967 - discord.client - INFO - logging in using static token
+2025-03-17 11:10:22,972 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-17 11:10:23,076 - __main__ - ERROR - Failed to start the bot: Improper token has been passed.
+2025-03-17 11:10:31,880 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-17 11:10:31,881 - __main__ - INFO - Starting Discord bot...
+2025-03-17 11:10:31,882 - discord.client - INFO - logging in using static token
+2025-03-17 11:10:31,889 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-17 11:10:31,976 - __main__ - ERROR - Failed to start the bot: Improper token has been passed.
+2025-03-17 11:14:44,786 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-17 11:14:44,787 - __main__ - INFO - Starting Discord bot...
+2025-03-17 11:14:44,788 - discord.client - INFO - logging in using static token
+2025-03-17 11:14:44,798 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-17 11:14:45,392 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 231a537c652a193d3216a79232b01f7d).
+2025-03-17 11:14:47,409 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-17 11:14:47,410 - bot - INFO - Connected to 3 guilds
+2025-03-17 11:14:48,114 - bot - INFO - Loaded all cogs successfully
+2025-03-17 11:14:48,115 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 11:14:48,115 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 11:14:48,115 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 11:24:48,142 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 11:24:48,143 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 11:24:48,143 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 11:34:48,121 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 11:34:48,121 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 11:34:48,121 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 11:36:35,894 - cogs.language - INFO - Responded in Portuguese to ranka_tenshi
+2025-03-17 11:44:48,144 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 11:44:48,147 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 11:44:48,148 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 11:54:48,125 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 11:54:48,125 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 11:54:48,126 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 12:04:48,147 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 12:04:48,147 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 12:04:48,148 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 12:05:08,252 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 231a537c652a193d3216a79232b01f7d.
+2025-03-17 12:09:48,983 - bot - INFO - Message from _devilbryan: deixei tu falar?
+2025-03-17 12:14:48,117 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 12:14:48,117 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 12:14:48,118 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 12:17:09,081 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-17 12:17:09,086 - __main__ - INFO - Starting Discord bot...
+2025-03-17 12:17:09,089 - discord.client - INFO - logging in using static token
+2025-03-17 12:17:09,125 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-17 12:17:09,724 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0fbd9496bff1ba436a8a1198a097ff9e).
+2025-03-17 12:17:11,739 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-17 12:17:11,739 - bot - INFO - Connected to 3 guilds
+2025-03-17 12:17:12,558 - bot - INFO - Loaded all cogs successfully
+2025-03-17 12:17:12,559 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 12:17:12,559 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 12:17:12,560 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 12:27:12,585 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 12:27:12,586 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 12:27:12,586 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 12:37:12,566 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 12:37:12,566 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 12:37:12,566 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 12:47:12,589 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 12:47:12,589 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 12:47:12,589 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 12:48:32,082 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 0fbd9496bff1ba436a8a1198a097ff9e.
+2025-03-17 12:57:12,584 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 12:57:12,584 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 12:57:12,584 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 13:07:12,561 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 13:07:12,561 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 13:07:12,562 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 13:17:12,589 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 13:17:12,589 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 13:17:12,589 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 13:19:13,424 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 0fbd9496bff1ba436a8a1198a097ff9e.
+2025-03-17 13:27:12,585 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 13:27:12,585 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 13:27:12,585 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 13:37:12,567 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 13:37:12,567 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 13:37:12,567 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias
+2025-03-17 13:38:21,458 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 0fbd9496bff1ba436a8a1198a097ff9e.
+2025-03-17 14:09:06,764 - __main__ - INFO - HTTPS uptime monitoring server started in background
+2025-03-17 14:09:06,767 - __main__ - INFO - Starting Discord bot...
+2025-03-17 14:09:06,769 - __main__ - INFO - Starting HTTPS uptime server on port 5000
+2025-03-17 14:09:06,769 - discord.client - INFO - logging in using static token
+2025-03-17 14:09:07,276 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1f63baf49857422de65676c5f6d03804).
+2025-03-17 14:09:09,290 - bot - INFO - Bot is ready! Logged in as Kimiko#7223 (ID: 924750997295857775)
+2025-03-17 14:09:09,291 - bot - INFO - Connected to 3 guilds
+2025-03-17 14:09:09,854 - bot - INFO - Loaded all cogs successfully
+2025-03-17 14:09:09,855 - cogs.webhooks - WARNING - YOUTUBE_API_KEY não configurada, pulando verificação do YouTube
+2025-03-17 14:09:09,855 - cogs.webhooks - WARNING - OPENWEATHER_API_KEY não configurada, pulando verificação de clima
+2025-03-17 14:09:09,855 - cogs.webhooks - WARNING - NEWS_API_KEY não configurada, pulando verificação de notícias

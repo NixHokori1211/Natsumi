@@ -1,0 +1,92 @@
+{
+    "921563106113626143": {
+        "users": {
+            "638835601273258035": {
+                "xp": 508,
+                "level": 2,
+                "total_xp": 508,
+                "last_message_time": 1742220779.416951,
+                "messages": 18,
+                "voice_time": 0,
+                "commands_used": 28,
+                "theme": "default",
+                "background_url": null,
+                "card_color": null,
+                "card_text": null,
+                "bonuses": {}
+            },
+            "544240234221535507": {
+                "xp": 286,
+                "level": 2,
+                "total_xp": 286,
+                "last_message_time": 1741626583.42461,
+                "messages": 15,
+                "voice_time": 0,
+                "commands_used": 0,
+                "theme": "default",
+                "background_url": null,
+                "card_color": null,
+                "card_text": null,
+                "bonuses": {}
+            },
+            "779023447845765140": {
+                "xp": 213,
+                "level": 1,
+                "total_xp": 213,
+                "last_message_time": 1741632031.468449,
+                "messages": 11,
+                "voice_time": 0,
+                "commands_used": 0,
+                "theme": "default",
+                "background_url": null,
+                "card_color": null,
+                "card_text": null,
+                "bonuses": {}
+            },
+            "891343859362197554": {
+                "xp": 60,
+                "level": 1,
+                "total_xp": 60,
+                "last_message_time": 1742216548.1162,
+                "messages": 3,
+                "voice_time": 0,
+                "commands_used": 0,
+                "theme": "default",
+                "background_url": null,
+                "card_color": null,
+                "card_text": null,
+                "bonuses": {}
+            }
+        },
+        "settings": {
+            "enabled": true,
+            "level_up_messages": true,
+            "level_up_channel": null,
+            "role_rewards": {},
+            "boost_channels": [],
+            "ignore_channels": []
+        }
+    },
+    "956307445393809498": {
+        "users": {},
+        "settings": {
+            "enabled": true,
+            "level_up_messages": true,
+            "level_up_channel": null,
+            "role_rewards": {},
+            "boost_channels": [],
+            "ignore_channels": []
+        }
+    },
+    "1211065704451678249": {
+        "users": {},
+        "settings": {
+            "enabled": true,
+            "level_up_messages": true,
+            "level_up_channel": null,
+            "role_rewards": {},
+            "boost_channels": [],
+            "ignore_channels": []
+        }
+    }
+}
